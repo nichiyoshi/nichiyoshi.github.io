@@ -1,0 +1,1 @@
+# nichiyoshi.github.io
