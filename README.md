@@ -1,6 +1,12 @@
 # My Running Race History
 |Date|Race name|Race Type|Country|Distance/ Elevation Gain|Time|Ranking|
 |----|----|----|----|----|----|----|
+|2024-07-13|OSJ Ontake 100|Ultra Trail|Japan|100 km|||
+|2024-06-21|Deep Japan 80K|Ultra Trail|Japan|80 km|||
+|2024-05-18|Trainic-world 100 miles in Sai no kuni|Ultra Trail|Japan|100 mile|||
+|2024-04-21|13th Okumusashi Moroyama Trail run|Trail running|Japan|24 km|||
+|2024-03-31|Hasetsune 30K|Trail running|Japan|30 km|||
+|2024-02-18|Kitakyusyu Marathon|Full Marathon|Japan|42 km|||
 |2023-12-29|Kyoto Great Round - 100mile|Ultra Trail Running|Japan|164 km / 8,400 m+|30:26:23 | 12/38|
 |2023-12-17|7th Minami-aso caldera Trail - 50km|Trail Running|Japan|50 km / |07:01:38 | 17/157|
 |2023-11-04|OSJ KAMI100 - 100K|Ultra Trail Running|Japan|109 km / 6100 m+|20:54:24|54 / 157|
