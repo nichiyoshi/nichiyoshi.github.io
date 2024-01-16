@@ -1,12 +1,11 @@
 ---
 layout: page
 title: Running
-permalink: /running
+permalink: /run/en
 ---
 
 ## Blog
-https://note.com/nichiyoshi/m/m974baf4333c6
-
+- [note](https://note.com/nichiyoshi/m/m974baf4333c6) (Japanese articles)
 
 ## Results
 
@@ -37,11 +36,16 @@ https://note.com/nichiyoshi/m/m974baf4333c6
 |05-14|Fukuoka Heiwadai Aozora Marathon|Marathon|Japan|20 km|01:42:56 | 12/???|
 |02-26|Kilimanjaro Marathon|Full Marathon|Tanzania|42 km|04:19:58 | 289/734|
 
-### ~ 2022
+### 2017
 
 |Date|Race name|Race Type|Country|Distance/ Elevation Gain|Time|Ranking|
 |----|----|----|----|----|----|----|
 |10-01|Tohoku-Miyagi Revive Marathon|Full Marathon|Japan|42 km|03:58:33 | 1,157/7,373|
+
+### 2015
+
+|Date|Race name|Race Type|Country|Distance/ Elevation Gain|Time|Ranking|
+|----|----|----|----|----|----|----|
 |04-04|Two Oceans Marathon 56K|Ultra Marathon|South Africa|56 km|06:53:22 | 8,182/8,721|
 
 
