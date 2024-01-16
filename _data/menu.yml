@@ -1,0 +1,30 @@
+entries:
+  - title: News!!
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
+
+  - title: 自己紹介
+    entries:
+      - title: モットー
+        entries: 
+          - title: Embrace Curiosity, Seek Adventure, Live Excitedly.
+      - title: 趣味
+        entries:
+          - title: ランニング🏃(マラソン/トレイルランニング)
+            entries:
+              - title: ランニング経歴/Blog
+                url: running
+          - title: スキューバダイビング🤿 (PADI レスキューダイバー)
+          - title: 街歩き&写真📷
+            entries:
+              - title: unsplash
+                url: https://unsplash.com/@nichiyoshi
+              - title: flickr
+                url: https://www.flickr.com/photos/nichiyoshi/
+      - title: SNS
+        entries:
+          - title: instagram
+            url: https://www.instagram.com/nichiyoshi_jp/
