@@ -6,6 +6,8 @@ permalink: /run
 
 [English](./en)
 
+2023年の年始、タンザニアへの長期出張中にキリマンジャロマラソンへエントリーしたことをキッカケに1月からランニングを初め、いつかはキリマンジャロのトレイル大会にも出てみたいという思いから帰国後もランニングを継続。その後、10月の100kmマラソンでサブ9を達成して年代別3位入賞し、12月にはKYOTO GREAT ROUNDのトレイル大会100マイル部門を12位で完走。この1年の軌跡は、九州のランニングメディア7trailsにゲストとして招いていただき[Podcastで配信中](https://podcasters.spotify.com/pod/show/7tarils/episodes/epi83-Kilimanjaro-Trail-Run-Ultra-e2e3ruv)。
+
 ## ブログ
 - [note](https://note.com/nichiyoshi/m/m974baf4333c6)
 
