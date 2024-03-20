@@ -1,4 +1,4 @@
-why---
+---
 layout: page
 title: ランニング
 permalink: /run
