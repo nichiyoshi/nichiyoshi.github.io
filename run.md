@@ -4,11 +4,15 @@ title: ランニング
 permalink: /run
 ---
 
-2023年の年始、タンザニアへの長期出張中にキリマンジャロマラソンへエントリーしたことをキッカケに1月からランニングを初め、いつかは[キリマンジャロのトレイル大会](https://www.kilimanjarotrail.com/trail-run-events)にも出てみたいという思いから帰国後もランニングを継続。その後、10月の壱岐100kmマラソンでサブ9を達成して年代別3位入賞し、12月にはKYOTO GREAT ROUNDのトレイル大会100マイル部門を12位で完走。この1年の軌跡は、九州のランニングメディア7trailsにゲストとして招いていただき[Podcastで配信中](https://podcasters.spotify.com/pod/show/7tarils/episodes/epi83-Kilimanjaro-Trail-Run-Ultra-e2e3ruv)。
+2023年の年始、タンザニアへの長期出張中にキリマンジャロマラソンにエントリーしたことをキッカケに1月からランニングを初め、いつかは[キリマンジャロのトレイル大会](https://www.kilimanjarotrail.com/trail-run-events)にも出てみたいという思いから帰国後もランニングを継続。本格的に練習を始め、同年10月の壱岐100kmウルトラマラソンでサブ9を達成して年代別3位入賞し、12月にはトレイルランニングの大会KYOTO GREAT ROUND 100マイル部門を12位で完走。この1年の軌跡は、九州のランニングメディア7trailsにゲストとして招いていただき[Podcastで配信中](https://podcasters.spotify.com/pod/show/7tarils/episodes/epi83-Kilimanjaro-Trail-Run-Ultra-e2e3ruv)。
 
 ## マラソンPB
 - フルマラソン 02:53:52 (2024 北九州マラソン)
 - 100kmマラソン 08:57:41 (2023 壱岐ウルトラマラソン)
+
+##　入賞
+- 2023 壱岐ウルトラマラソン100km 年代別3位入賞
+- 2023 矢倉沢往還160km 総合3位（入賞はなし）
 
 ## 予定/結果
 
